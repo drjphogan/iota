@@ -12,6 +12,7 @@ int main()
 	// A second comment added to master branch
 	// aDD A THIRD COMMENT TO MASTER
 	// Add fourth commit to master again
+	// add another flippin comment
 	vector<int> x(10);
 	std::iota(x.begin(), x.end(),0);
 	auto first_even = std::find_if(x.begin(), x.end(), [](const int& item) { return item % 2 == 0 && item != 0; });
