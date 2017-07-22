@@ -6,6 +6,8 @@ using std::vector;
 
 int main()
 {
+	// Add the first comment
+	// Add a second comment
 	// A a comment to the master branch
 	vector<int> x(10);
 	std::iota(x.begin(), x.end(),0);
