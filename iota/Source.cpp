@@ -12,6 +12,8 @@ int main()
 	// A second comment added to master branch
 	// aDD A THIRD COMMENT TO MASTER
 	// Add fourth commit to master again
+	// Add fifth commit to master
+	// ADD a sixth comment
 	// add another flippin comment
 	vector<int> x(10);
 	std::iota(x.begin(), x.end(),0);
