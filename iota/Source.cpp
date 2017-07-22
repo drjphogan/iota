@@ -11,6 +11,7 @@ int main()
 	// A a comment to the master branch
 	// A second comment added to master branch
 	// aDD A THIRD COMMENT TO MASTER
+	// add a fourth commit
 	vector<int> x(10);
 	std::iota(x.begin(), x.end(),0);
 	auto first_even = std::find_if(x.begin(), x.end(), [](const int& item) { return item % 2 == 0 && item != 0; });
