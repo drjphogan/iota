@@ -9,7 +9,6 @@ int main()
 	// Add the first comment
 	// Add a second comment
 	// A a comment to the master branch
-	// A second comment added to master branch
 	// add a thrid comment
 	vector<int> x(10);
 	std::iota(x.begin(), x.end(),0);
